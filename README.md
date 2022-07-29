@@ -12,7 +12,7 @@ Fork repository, and open the project in your terminal. Install necessary packag
 ## Contributors
 Jackson LeMasters
 ## Repository
-- [Project Repo](github.com/tf-jlemasters/friend-app)
+- [Project Repo](github.com/tf-jlemasters/beat-mix-js)
 ## GitHub
 ![Image of me](https://avatars.githubusercontent.com/u/101416043?v=4)
 - Jackson LeMasters
